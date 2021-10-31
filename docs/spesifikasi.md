@@ -46,3 +46,5 @@ Warranty Length	:	1 Year
 Warranty Details	:	1 year Global Onsite Warranty  
 
 [Kembali ke Index](https://github.com/daniasefine/x45c/blob/main/docs/index.md)
+  
+Didokumentasikan oleh tim kreatif dari www.firstplato.com.
