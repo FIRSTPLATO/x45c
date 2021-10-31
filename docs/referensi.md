@@ -1,1 +1,2 @@
-
+- https://www.seagate.com/id/id/tech-insights/sshd-vs-ssd-hybrid-drive-for-desktop-gaming-pc-master-ti/
+- 
