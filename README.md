@@ -10,3 +10,7 @@ Asus X45C setup for latest OS'es ( Windows, Linux, Mac OSX ) - www.firstplato.co
 [English version.](https://github.com/daniasefine/x45c/blob/main/docs/index_en.md)
 
 Didokumentasikan oleh tim kreatif dari www.firstplato.com.
+
+![](https://raw.githubusercontent.com/FIRSTPLATO/x45c/main/docs/img/1.png)  
+![](https://raw.githubusercontent.com/FIRSTPLATO/x45c/main/docs/img/Screenshot_2021-10-07_13-44-39.png)
+![](https://raw.githubusercontent.com/ipang-dwi/efi-catalina/master/img/v6/1.png)
