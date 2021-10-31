@@ -5,7 +5,7 @@
 Berikut ini spesifikasi Asus X45C :
 
 Basic Information
-Model Name	:	X45C-VX020D
+Model Name	:	X45C-VX020D  
 Launch Date (Global)	:	2013-01-14
 Operating System (With Version)	:	DOS
 Laptop Type	:	Mainstream
