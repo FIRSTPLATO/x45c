@@ -5,7 +5,7 @@
 ![](https://raw.githubusercontent.com/daniasefine/x45c/main/docs/img/firmware.png)
 
 Sebelum melakukan semua proses Mod (modifikasi) pada Laptop Asus X45C, terlebih dahulu yang harus dilakukan adalah melakukan upgrade firmware bawaan. Yang harus dilakukan adalah :  
-- Akses link berikut https://www.asus.com/us/SupportOnly/X45C/HelpDesk_BIOS/
+- Akses link berikut https://www.asus.com/us/SupportOnly/X45C/HelpDesk_BIOS/ atau bisa juga download pada https://github.com/FIRSTPLATO/x45c/releases/tag/208  
 - Lalu download firmware terakhir yg disupport oleh Asus, yaitu versi 208.
 - Masukkan file X45CAS208.zip hasil download ke dalam USB flashdisk, kemudian masuklah ke BIOS mode, dan upgrade firmware dengan file tersebut.  
 
