@@ -2,7 +2,7 @@
 
 ![](https://img.shields.io/badge/lab-firstplato.com-orange) ![](https://img.shields.io/badge/x45c-mod-blue?logo=asus) ![](https://img.shields.io/badge/ubuntu%20LTS-mod-blue?logo=ubuntu) ![](https://img.shields.io/badge/windows%2011-mod-blue?logo=windows) ![](https://img.shields.io/badge/macOS%20Catalina-mod-blue?logo=apple) ![](https://img.shields.io/badge/old%20laptop-mod-blueviolet?logo=github)
 
-![](https://raw.githubusercontent.com/daniasefine/x45c/main/docs/img/asus.png)
+![](https://raw.githubusercontent.com/FIRSTPLATO/x45c/main/docs/img/asus.png)
   
 Berikut ini spesifikasi Asus X45C :
 
@@ -45,6 +45,6 @@ Warranty And Manufacturer Info
 Warranty Length	:	1 Year  
 Warranty Details	:	1 year Global Onsite Warranty  
 
-[Kembali ke Index](https://github.com/daniasefine/x45c/blob/main/docs/index.md)
+[Kembali ke Index](https://github.com/FIRSTPLATO/x45c/blob/main/docs/index.md)
   
 Didokumentasikan oleh tim kreatif dari www.firstplato.com.
