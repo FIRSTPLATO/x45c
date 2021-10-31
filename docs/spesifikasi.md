@@ -44,3 +44,5 @@ Battery Type	:	6 cell
 Warranty And Manufacturer Info  
 Warranty Length	:	1 Year  
 Warranty Details	:	1 year Global Onsite Warranty  
+
+[Kembali ke Index](https://github.com/daniasefine/x45c/blob/main/docs/index.md)
